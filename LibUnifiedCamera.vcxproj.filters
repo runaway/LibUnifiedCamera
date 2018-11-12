@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LibUnifiedCamera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AlgoGoldenAnalysis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AlgoInterface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ComFunc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ConfigurationManage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DataConvert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DefectBinningStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DefectDetection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DefectsAnalysis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DefectsClassify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DefectsClustering.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ROIUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SiteROIParamRecords.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinystr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxml.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UnifiedCamera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibUnifiedCamera.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="res\LibUnifiedCamera.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LibUnifiedCamera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AlgoGoldenAnalysis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AlgoInterface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BinParam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ComDef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ComFunc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConfigurationManage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DataConvert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectBinningStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectDetection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectDetectionGPU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectDetectionNoRotation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectsAnalysis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectsClassify.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DefectsClustering.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ParallelDiff.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ROIUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SiteROIParamRecords.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UnifiedCamera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LibUnifiedCamera.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

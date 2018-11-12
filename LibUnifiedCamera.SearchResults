@@ -1,0 +1,3 @@
+---- VideoCameraGrabFrame Matches (2 in 2 files) ----
+UnifiedCamera.cpp (src):bool VideoCameraGrabFrame(unsigned char* pbyFrameData)
+UnifiedCamera.h (include):extern "C" _declspec(dllexport) bool VideoCameraGrabFrame(unsigned char* pbyImageData);

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibUnifiedCamera", "LibUnifiedCamera.vcxproj", "{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Debug|x64.ActiveCfg = Debug|x64
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Debug|x64.Build.0 = Debug|x64
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Debug|x86.Build.0 = Debug|Win32
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Release|x64.ActiveCfg = Release|x64
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Release|x64.Build.0 = Release|x64
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Release|x86.ActiveCfg = Release|Win32
+		{5D143BB1-1B0F-4071-9297-19FB9B3BFB54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC223AD1-08A5-40A5-9A20-23C3CAAEED97}
+	EndGlobalSection
+EndGlobal
